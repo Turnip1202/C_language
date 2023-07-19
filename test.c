@@ -1,9 +1,13 @@
-#include <stdio.h>
+#include "stdio.h"
+
+struct stu
+{
+  int id;
+  char name[20];
+  int age;
+};
+
 int main()
 {
-	char c = "A";
-	printf("%c\n", c);
-	printf("%d\n", c);
-	system("pause");
-	return 0;
+  printf("Hello World");
 }

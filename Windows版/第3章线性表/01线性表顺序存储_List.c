@@ -188,7 +188,7 @@ int main()
     ListTraverse(L);
     printf("L.length=%d \n", L.length);
 
-    GetElem(L, 5, &e);
+    GetElem(L, 5, &e); //内部将获取到的元素给了e
     printf("第5个元素的值为：%d\n", e);
     for (j = 3; j <= 4; j++)
     {

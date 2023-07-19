@@ -1,0 +1,7 @@
+﻿  吃金币游戏.c
+D:\01_Code\C_language\MyGame1\吃金币游戏.c(37,9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  MyGame1.vcxproj -> D:\01_Code\C_language\MyGame1\Debug\MyGame1.exe
+  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件
+  复制了 0 个文件

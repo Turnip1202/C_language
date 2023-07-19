@@ -1,0 +1,6 @@
+the student Beibei score is: 85.000000
+the student Jingjing score is: 78.000000
+the student Huanhuan score is: 83.000000
+the student Yingying score is: 92.000000
+the student Nini score is: 68.000000
+the average score is:81.199997
